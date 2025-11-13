@@ -24,7 +24,7 @@ In future there's gonna be a lot more skins/gamemodes and features added, so any
 
 ### DISCLAIMER
 *Project Luminext has no relationship with Lumines™ series and wasn't endorsed by it's respective owners: Enhance, Resonair and BNEI, nor any of their affiliates.
-We're not intending to replace original series and please, if you want real Lumines™ remake, check out [Lumines Remastered](https://luminesremastered.com) instead.*
+We're not intending to replace original series and please, if you want real Lumines™ remake, check out [Lumines Remastered](https://luminesremastered.com) or [Lumines Arise](https://lumines.game) instead.*
 
 ## Contribution
 There are several ways to contribute to the Luminext project:
